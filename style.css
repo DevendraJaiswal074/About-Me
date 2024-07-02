@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+h1{
+    text-align: center;
+}
+h1, h2 {
+    color: #333;
+}
+.container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+.section {
+    margin-bottom: 20px;
+}
+.section h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+}
