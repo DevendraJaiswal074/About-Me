@@ -22,3 +22,14 @@ h1, h2 {
     border-bottom: 2px solid #333;
     padding-bottom: 5px;
 }
+
+.scroll{
+    width: cover;
+    height: 150px;
+    overflow: scroll;
+}
+
+
+.image{
+    filter: drop-shadow(10px 10px 20px rgb(81, 81, 84));
+}
